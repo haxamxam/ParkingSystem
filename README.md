@@ -10,13 +10,13 @@ Please make sure to update tests as appropriate.
 # Application Main Menu
 
 <p align="center">
-  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/App.png" width="500" title="hover text">
+  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/App.png" width="700" title="hover text">
 </p>
 
 # OOP Design
 
 <p align="center">
-  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/OOP.png" width="500" title="hover text">
+  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/OOP.png" width="600" title="hover text">
 </p>
 
 ## License
