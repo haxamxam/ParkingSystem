@@ -8,13 +8,13 @@ Run the main function in the Application class to start the application.
 # Application Main Menu
 
 <p align="center">
-  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/App.png" width="700" title="hover text">
+  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/App.png" width="900" title="hover text">
 </p>
 
 # OOP Design
 
 <p align="center">
-  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/OOP.png" width="600" title="hover text">
+  <img src="https://github.com/haxamxam/ParkingSystem/blob/main/OOP.png" width="750" title="hover text">
 </p>
 
 ## Contributing
