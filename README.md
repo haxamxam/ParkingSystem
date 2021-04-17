@@ -1,6 +1,8 @@
 # Parking System Application
 
-Simple CLI application for a Parking System using Java
+Simple CLI application for a Parking System using Java.
+
+Run the main function in the Application class to start the application.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
