@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IO
+comment1.params=text
+comment1.target=java.lang.String\ getText(java.lang.String)
+comment1.text=\ Takes\ input\ from\ user\ through\ scanner\r\n\ it\ assigns\ string\ to\ none\ if\ input\ doesn't\ have\ value\r\n\ \r\n\ @param\ \ text,\ a\ string\ parameter\r\n\ @return\ \ \ receivedText,\ scanned\ text\ if\ exists\ or\ "none"\ text\r\n
+comment2.params=text
+comment2.target=void\ println(java.lang.String)
+comment2.text=\r\n\ \r\n\ Prints\ output\ to\ user\r\n\ \r\n\ @param\ \ text,\ a\ string\ parameter\ to\ be\ printed\ as\ output\r\n
+numComments=3
